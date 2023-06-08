@@ -5,6 +5,7 @@ This is a simple Bank Management System that allows users to perform various ban
 This Git repository contains the source code and related files for a Fuel Management System. The system is designed to manage various transaction for an client.
 
 Features:
+
   Login Page: Users can securely log in to their bank accounts using their credentials.
         
   Register Page: New users can create an account by providing their personal information and setting up their login credentials.
