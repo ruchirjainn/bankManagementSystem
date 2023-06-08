@@ -4,15 +4,13 @@ This is a simple Bank Management System that allows users to perform various ban
 
 This Git repository contains the source code and related files for a Fuel Management System. The system is designed to manage various transaction for an client.
 
-Features
-  -Login Page: Users can securely log in to their bank accounts using their credentials.
-  -Register Page: New users can create an account by providing their personal information and setting up their login credentials.
-  -Deposit: Users can deposit money into their bank accounts by specifying the amount they wish to add.
-  -Withdrawal: Users can withdraw money from their bank accounts by entering the desired withdrawal amount.
-  -PIN Change: Users can change their PIN to ensure the security of their bank account.
-  -Fast Cash: Users can quickly withdraw pre-defined amounts of money without entering specific withdrawal amounts.
-  -Balance Enquiry: Users can check their account balance to keep track of their funds.
-  -Mini Statement: Users can view a summary of recent transactions, including details such as date, time, and transaction type.
+Key Features:
+        Secure user login and registration process
+        Ability to deposit and withdraw funds from the bank account
+        PIN change functionality to enhance account security
+        Fast cash option for quick withdrawals with predefined amounts
+        Balance inquiry to check the available funds in the account
+        Mini statement feature for viewing recent transaction history
 
 
 For any assistance or issues, feel free to pull request
