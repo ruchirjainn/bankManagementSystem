@@ -6,19 +6,12 @@ This Git repository contains the source code and related files for a Fuel Manage
 
 Features
 -Login Page: Users can securely log in to their bank accounts using their credentials.
-
 -Register Page: New users can create an account by providing their personal information and setting up their login credentials.
-
 -Deposit: Users can deposit money into their bank accounts by specifying the amount they wish to add.
-
 -Withdrawal: Users can withdraw money from their bank accounts by entering the desired withdrawal amount.
-
 -PIN Change: Users can change their PIN to ensure the security of their bank account.
-
 -Fast Cash: Users can quickly withdraw pre-defined amounts of money without entering specific withdrawal amounts.
-
 -Balance Enquiry: Users can check their account balance to keep track of their funds.
-
 -Mini Statement: Users can view a summary of recent transactions, including details such as date, time, and transaction type.
 
 
